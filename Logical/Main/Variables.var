@@ -1,0 +1,6 @@
+VAR
+	stateMachine : DriveStateMashine;
+	doorSM : DoorStateMashine;
+	ledSM : LedStateMashine;
+	enable : BOOL;
+END_VAR
