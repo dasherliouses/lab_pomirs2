@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="134386795770000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="134387058861927265" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Runtime\Binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Operator\Binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Operator\operator.typ"
+    LogicalPath="Libraries.Operator.operator.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Operator\operator.var"
+    LogicalPath="Libraries.Operator.operator.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\astime\Binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\sys_lib\Binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\asstring\Binary.lby"
+    LogicalPath="Libraries.asstring"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\asstring\asstring.fun"
+    LogicalPath="Libraries.asstring.asstring.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\asstring\asstring.typ"
+    LogicalPath="Libraries.asstring.asstring.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\asstring\asstring.var"
+    LogicalPath="Libraries.asstring.asstring.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\ANSIC.lby"
+    LogicalPath="Libraries.DriveLib"
+    Type="Library"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\Types.typ"
+    LogicalPath="Libraries.DriveLib.Types.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\Constants.var"
+    LogicalPath="Libraries.DriveLib.Constants.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\DriveLib.fun"
+    LogicalPath="Libraries.DriveLib.DriveLib.fun"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\DriveStateMashine.c"
+    LogicalPath="Libraries.DriveLib.DriveStateMashine.c"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\DoorStateMashine.c"
+    LogicalPath="Libraries.DriveLib.DoorStateMashine.c"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\DriveLib\LedStateMashine.c"
+    LogicalPath="Libraries.DriveLib.LedStateMashine.c"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Acp10par\Binary.lby"
+    LogicalPath="Libraries.Acp10par"
+    Type="Library"
+    LastWriteTime="134387058840634193" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Acp10par\Acp10par.var"
+    LogicalPath="Libraries.Acp10par.Acp10par.var"
+    Type="File"
+    LastWriteTime="134387058840614255"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\NcGlobal\Binary.lby"
+    LogicalPath="Libraries.NcGlobal"
+    Type="Library"
+    LastWriteTime="134387058853140765" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\NcGlobal\NcGlobal.fun"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.fun"
+    Type="File"
+    LastWriteTime="134387058853100862"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\NcGlobal\NcGlobal.typ"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.typ"
+    Type="File"
+    LastWriteTime="134387058853110842"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\NcGlobal\NcGlobal.var"
+    LogicalPath="Libraries.NcGlobal.NcGlobal.var"
+    Type="File"
+    LastWriteTime="134387058853130902"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Acp10man\Binary.lby"
+    LogicalPath="Libraries.Acp10man"
+    Type="Library"
+    LastWriteTime="134387058861747746" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Libraries\Acp10man\Acp10man.typ"
+    LogicalPath="Libraries.Acp10man.Acp10man.typ"
+    Type="File"
+    LastWriteTime="134387058861737779"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Main\ANSIC.prg"
+    LogicalPath="Main"
+    Type="Program"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Main\Cyclic.c"
+    LogicalPath="Main.Cyclic.c"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Main\Init.c"
+    LogicalPath="Main.Init.c"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Main\Exit.c"
+    LogicalPath="Main.Exit.c"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Main\Types.typ"
+    LogicalPath="Main.Types.typ"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Logical\Main\Variables.var"
+    LogicalPath="Main.Variables.var"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="true" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\Config.pkg"
+    LogicalPath="SampleText"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\Hardware.hw"
+    LogicalPath="SampleText.Hardware.hw"
+    Type="File"
+    LastWriteTime="134387087068671456"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\Hardware.hwl"
+    LogicalPath="SampleText.Hardware.hwl"
+    Type="File"
+    LastWriteTime="134387062250909632"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="134387073596339915" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="SampleText.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="134387058874992342"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Cpu.per"
+    LogicalPath="SampleText.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="SampleText.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="134387066655096095"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="SampleText.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\mapp\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.mapp"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="134386795700000000"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="134386795700000000" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Motion\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.Motion"
+    Type="Package"
+    LastWriteTime="134387058874095027" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Motion\Acp10cfg.ncc"
+    LogicalPath="SampleText.4PP065_0571_P74.Motion.Acp10cfg.ncc"
+    Type="File"
+    LastWriteTime="134387058869397294"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Motion\Acp10map.ncm"
+    LogicalPath="SampleText.4PP065_0571_P74.Motion.Acp10map.ncm"
+    Type="File"
+    LastWriteTime="134387058871471751"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\4PP065_0571_P74\Motion\Acp10sys.br"
+    LogicalPath="SampleText.4PP065_0571_P74.Motion.Acp10sys.br"
+    Type="File"
+    LastWriteTime="134387058874872943"
+    Private="false" />
+  <Object
+    Path="C:\Users\admin\Desktop\krbo-01-23 prog\DriveControl_LR2\Physical\SampleText\Hardware.jpg"
+    LogicalPath="SampleText.Hardware.jpg"
+    Type="File"
+    LastWriteTime="134387093328666783"
+    Private="false" />
+</Objects>
