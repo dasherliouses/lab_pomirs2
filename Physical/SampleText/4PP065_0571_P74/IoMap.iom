@@ -1,0 +1,14 @@
+VAR_CONFIG
+	::Main:stateMachine.state AT %IW."8I64xxxxxxx.00x-1".ETAD_Input;
+	::Main:stateMachine.command AT %QW."8I64xxxxxxx.00x-1".CMDD_Output;
+	::Main:stateMachine.speed AT %QW."8I64xxxxxxx.00x-1".LFRD_Output;
+	::Main:doorSM.direction AT %IX."X20DI9371".DigitalInput01;
+	::Main:doorSM.s0 AT %IX."X20DI9371".DigitalInput02;
+	::Main:doorSM.s1 AT %IX."X20DI9371".DigitalInput03;
+	::Main:doorSM.s2 AT %IX."X20DI9371".DigitalInput04;
+	::Main:doorSM.s3 AT %IX."X20DI9371".DigitalInput05;
+	::Main:ledSM.led1 AT %QX."X20DO9322".DigitalOutput02;
+	::Main:ledSM.led2 AT %QX."X20DO9322".DigitalOutput03;
+	::Main:ledSM.led3 AT %QX."X20DO9322".DigitalOutput04;
+	::Main:ledSM.led4 AT %QX."X20DO9322".DigitalOutput05;
+END_VAR
